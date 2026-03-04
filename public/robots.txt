@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://internetisbeautiful.io/sitemap.xml
+
+# Disallow admin and API
+Disallow: /admin
+Disallow: /api/
