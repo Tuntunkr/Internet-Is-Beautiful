@@ -6,6 +6,8 @@ import { Button } from '../ui/Button'
 
 export function FeaturedHighlight() {
   const featured = mockWebsites.find((w) => w.featured) || mockWebsites[0]
+  // new changes
+  // here
 
   return (
     <motion.section
